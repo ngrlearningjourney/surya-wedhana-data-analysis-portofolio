@@ -9,7 +9,7 @@ Welcome to my Data Analysis repository! This repository contains data analysis p
 This project explores the behavior of electronic device users to identify patterns and trends.  
 
 ### Steps:
-1. **Data Gathering**: Dataset from [Kaggle]("https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset"). 
+1. **Data Gathering**: Dataset from [Kaggle](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset).
 2. **Data Wrangling**  
 3. **Exploratory Data Analysis (EDA)**  
 4. **Data Visualization**  
@@ -46,7 +46,7 @@ This project explores the behavior of electronic device users to identify patter
 This project analyzes employee data to uncover workforce trends and insights.  
 
 ### Steps:
-1. **Data Gathering**: Dataset from [Kaggle]("https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset").  
+1. **Data Gathering**: Dataset from [Kaggle](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset).
 2. **Data Wrangling**  
 3. **Exploratory Data Analysis (EDA)**  
 4. **Data Visualization**  
