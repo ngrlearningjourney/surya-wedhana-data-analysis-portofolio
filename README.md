@@ -73,10 +73,10 @@ This project analyzes employee data to uncover workforce trends and insights.
 In this project, two machine learning classification models were applied to predict employee attrition (whether employees leave the company). The models used were **Logistic Regression** and **K-Nearest Neighbors (KNN)**.
 
 1. **Logistic Regression**:  
-   The Logistic Regression model achieved an accuracy of **63.5%**. This model helps to predict the probability of an employee leaving the company based on various features such as education, experience, and payment tier.
+   The Logistic Regression model achieved an accuracy of **66.7%**. This model helps to predict the probability of an employee leaving the company based on various features such as education, experience, and payment tier.
 
 2. **K-Nearest Neighbors (KNN)**:  
-   The KNN model outperformed the Logistic Regression model with an accuracy of **73.6%**. KNN is a non-parametric method that predicts the target variable based on the closest training examples in the feature space.
+   The KNN model outperformed the Logistic Regression model with an accuracy of **71.8%**. KNN is a non-parametric method that predicts the target variable based on the closest training examples in the feature space.
 
 Both models were evaluated based on their accuracy and provided insights into factors influencing employee attrition.
 
