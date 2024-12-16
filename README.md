@@ -41,7 +41,7 @@ This project explores the behavior of electronic device users to identify patter
 
 ---
 
-## Project 2: Employee Analysis for a Company 🏢
+## [Project 2: Employee Analysis for a Company 🏢](https://github.com/ngrlearningjourney/surya-wedhana-data-analysis-portofolio/blob/main/user_behavior_analysis.ipynb)
 
 This project analyzes employee data to uncover workforce trends and insights.  
 
