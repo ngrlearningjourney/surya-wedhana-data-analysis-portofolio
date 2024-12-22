@@ -2,6 +2,8 @@
 
 Welcome to my Data Analysis repository! This repository contains data analysis projects that explore datasets, uncover insights, and answer key questions through structured analysis and visualization. All projects are implemented in Python, leveraging powerful data analysis libraries.
 
+Dashboard Portofolio Link : https://lookerstudio.google.com/reporting/056d2045-a3ba-49c8-9434-eedfebcb81b8
+
 ---
 
 ## [Project 1: Analyzing Electronic Device User Behavior 📱](https://github.com/ngrlearningjourney/surya-wedhana-data-analysis-portofolio/blob/main/user_behavior_analysis.ipynb)
