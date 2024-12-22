@@ -208,7 +208,7 @@ This project analyzes hotel reservation data to uncover insights about booking t
    - This indicates a **weak to moderate positive relationship**, suggesting that special requests may influence the booking status but are not the most significant factor.
 
 ## Tools & Libraries Used:
-- **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**
+- **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Sklearn**
 - **Spearman Correlation** for identifying relationships between variables
 
 ---
